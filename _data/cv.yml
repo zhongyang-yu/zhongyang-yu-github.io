@@ -26,11 +26,11 @@ cv:
         area: Linguistics
         studyType: PhD
         start_date: 2023
-        end_date: 2027 (predicted)
+        end_date: 
         score: ""
         highlights:
-          - Description 1.
-          - Description 2.
+           - Please check the pdf version CV for details.
+          # - Description 2.
 
       - institution: Queen Mary University of London
         area: Linguistics
@@ -45,8 +45,6 @@ cv:
         start_date: 2016
         end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
     #  - company: Institute for Advanced Study, Princeton University
